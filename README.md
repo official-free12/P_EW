@@ -1,0 +1,6 @@
+# PHP直销倍增分红源码见点分红日分红系统源码|双轨直销系统|双规直销PHP直销会员管
+
+后台管理员测试http://example.com.cn/example.com   账号 admin 密码 1前台会员测试：http://example.com.cn/<br>账号 sucaihuo 密码 1<br>推荐环境 example.com/example.com+apache<br>网罗全网精品源码<br>更多稀有精品源码请联系客服<br>需要查看演示网站请联系客服<br>PHP直销倍增分红源码见点分红日分红系统源码|双轨直销系统|双规直销,PHP直销会员管理系统源码<br>直销会员后台菜单会员资料   后台会员注册,未确认会员,会员列表,会员查询,前台会员升级记录,后台级别修改,后台级别修改记录,会员申请店铺记录网络图    一线网,公排网,安置网络图,推荐网络图,安置网体修改,推荐网体修改,安置体系树状图,推荐体系树图财务管理    财务充值,银行账号,汇款管理,提现管理,会员转账,账务明细,在线支付记录资金管理    日奖金管理,结算添加查询系统    会员统计,日资金查询,个人收入统计,总资金拨出率产品管理    产品分类,产品管理,入库列表,出库列表订单管理    订单列表,物流管理信息中心    写邮件,收件箱,发件箱,公告管理短信管理    短信余额,短信管理,短信模板,常用语设定,短信分组,短信群发,短信发送记录数据库管理    数据库备份,数据库恢复系统管理    管理员设定,日志管理,区域设置,奖金参数设定,参数设定,会员使用权限,前台登录页面设定,修改密码,系统初始化<br>                                 <br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/f783B" style="color: red;">https://mega-file.org/f783B</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
